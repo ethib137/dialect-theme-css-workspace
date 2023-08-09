@@ -1,0 +1,5 @@
+delectable-bonsai-theme-css:
+    clayURL: css/clay.css
+    mainURL: css/main.css
+    name: Delectable Bonsai Theme CSS
+    type: themeCSS

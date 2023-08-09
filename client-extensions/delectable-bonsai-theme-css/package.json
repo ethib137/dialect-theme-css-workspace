@@ -1,11 +1,9 @@
 {
-	"dependencies": {
-		"sassy-inputs": "1.0.6"
-	},
+	"dependencies": {},
 	"liferayDesignPack": {
 		"baseTheme": "styled"
 	},
 	"main": "package.json",
-	"name": "@liferay/liferay-sample-theme-css-1",
+	"name": "@liferay/delectable-bonsai-theme-css",
 	"version": "0.0.0"
 }
