@@ -602,5 +602,6 @@ $c-root: map-deep-merge(
 		--transition-base: 0.2s ease-in-out,
 		--transition-collapse: 0.35s ease,
 		--transition-fade: 0.15s linear
-	)
+	),
+	$c-root
 );
